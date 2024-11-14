@@ -44,7 +44,8 @@ fetchArticle: Funkcja pobierająca treść artykułu z podanego URL.
 processArticleWithAI: Funkcja przetwarzająca treść artykułu na HTML przy użyciu OpenAI API.
 saveToFile: Funkcja zapisująca wynikowy kod HTML do pliku artykul.html.
 main: Główna funkcja zarządzająca procesem aplikacji.
-Uwagi
+
+>Uwagi
 
 Aby aplikacja działała, klucz API OpenAI powinien być prawidłowy i aktywny.
 Aplikacja zapisuje kod HTML w pliku artykul.html w katalogu głównym repozytorium.
